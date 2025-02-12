@@ -13,4 +13,4 @@
 - Sempre que encontrar "=", o resultado da soma é colocado na saída.
 
 ### Resultados
-https://github.com/pedrorebelo13/PL2025-A104091/blob/main/TPC1/PL%20TPC1.py
+[ Somador ] (https://github.com/pedrorebelo13/PL2025-A104091/blob/main/TPC1/PL%20TPC1.py)

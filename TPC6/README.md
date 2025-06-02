@@ -14,14 +14,14 @@ Vamos testar o parser com algumas expressões aritméticas! Veja os exemplos aba
 Expressão
 Resultado Esperado
 
-2 + 3
-5
+´´´2 + 3´´´
+´´´5´´´
 
-67 - (2 * 3 * 4)
-43
+´´´67 - (2 * 3 * 4)´´´
+´´´43´´´
 
-(9 - 2) * (13 - 4)
-63
+´´´(9 - 2) * (13 - 4)´´´
+´´´63´´´
 
 
 Nota: Se você inserir uma expressão inválida (como 2 + * 3), o parser exibirá uma mensagem de erro, como "Parsing error: Expected a number, found a plus operator".
@@ -31,7 +31,7 @@ Siga estes passos para usar o parser:
 
 Execute o programa com o comando:
 
-´´python3 expression_parser.py´´
+´´´python3 expression_parser.py´´´
 
 
 Digite uma expressão aritmética quando solicitado pelo programa.

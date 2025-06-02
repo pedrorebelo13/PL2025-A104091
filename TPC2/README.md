@@ -15,4 +15,4 @@ A tarefa consistia em desenvolver um programa em Python que processasse um catá
 O programa precisava ler os dados de entrada a partir de um ficheiro e gerar os resultados conforme especificado.
 
 ### Resultados
-[Resolução](TPC2/TPC2.py)
+[Resolução](TPC2.py)

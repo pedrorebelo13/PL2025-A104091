@@ -15,4 +15,4 @@ A tarefa consistia em desenvolver um programa em Python que processasse um catá
 O programa precisava ler os dados de entrada a partir de um ficheiro e gerar os resultados conforme especificado.
 
 ### Resultados
-[Somador]([https://github.com/pedrorebelo13/PL2025-A104091/blob/main/TPC2/PL%20TPC1.py](https://github.com/pedrorebelo13/PL2025-A104091/blob/main/TPC2/TPC2.py))
+[Somador](TPC2/TPC2.py)

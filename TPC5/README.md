@@ -9,9 +9,9 @@
 Desenvolver um programa em Python que simula uma máquina de vending, permitindo listar produtos, inserir moedas, selecionar produtos, adicionar produtos ao stock e sair.
 
 ## Guia de Uso da Máquina de Vending
-### Instruções de Uso
+## Instruções de Uso
 
-## Este guia explica de forma simples e prática como utilizar cada comando da máquina de vending.
+Este guia explica de forma simples e prática como utilizar cada comando da máquina de vending.
 ### Comando LISTAR
 
 O que faz: Apresenta uma tabela com todos os produtos disponíveis, mostrando o código, nome, estoque e preço de cada um.

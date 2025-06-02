@@ -33,7 +33,9 @@ Siga estes passos para usar o parser:
 
 Execute o programa com o comando:
 
-'''python3 expression_parser.py'''
+'''python
+python3 expression_parser.py
+'''
 
 
 Digite uma expressão aritmética quando solicitado pelo programa.

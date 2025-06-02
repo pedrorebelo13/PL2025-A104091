@@ -29,8 +29,9 @@ Nota: Se você inserir uma expressão inválida (como 2 + * 3), o parser exibir�
 Como Executar o Programa
 Siga estes passos para usar o parser:
 
-Execute o programa com o comando:  
-python3 expression_parser.py
+Execute o programa com o comando:
+
+´´python3 expression_parser.py´´
 
 
 Digite uma expressão aritmética quando solicitado pelo programa.

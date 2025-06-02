@@ -14,12 +14,8 @@ Vamos testar o parser com algumas expressões aritméticas! Veja os exemplos aba
 Expressão
 Resultado Esperado
 
-```
-2 + 3
-```
-```
-5
-```
+```2 + 3```
+```5```
 
 ```67 - (2 * 3 * 4)```
 ```43```

@@ -1,0 +1,26 @@
+[
+    {
+        "cod": "A01",
+        "nome": "Water 500ml",
+        "quant": 10,
+        "preco": 0.70
+    },
+    {
+        "cod": "A02",
+        "nome": "Cola 330ml",
+        "quant": 5,
+        "preco": 1.20
+    },
+    {
+        "cod": "B01",
+        "nome": "Chips 50g",
+        "quant": 8,
+        "preco": 0.90
+    },
+    {
+        "cod": "B02",
+        "nome": "Chocolate Bar",
+        "quant": 3,
+        "preco": 1.00
+    }
+]

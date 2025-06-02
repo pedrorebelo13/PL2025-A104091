@@ -9,4 +9,4 @@
 A tarefa consistiu em desenvolver um programa em Python que convertesse texto Markdown para HTML, suportando elementos da "Basic Syntax": cabeçalhos, negrito, itálico, listas numeradas, links e imagens
 
 ### Resultados
-[Somador](TPC3.py)
+[Resolução](TPC3.py)
